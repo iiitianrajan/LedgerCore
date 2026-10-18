@@ -247,7 +247,7 @@ Distributed under the MIT License.
 
 **Rajan Kumar**
 
-- GitHub: ([https://github.com/your-username](https://github.com/iiitianrajan/LedgerCore))
+- GitHub: ([iiitianrajan](https://github.com/iiitianrajan/LedgerCore))
 
 
 <div align="center">
